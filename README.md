@@ -44,6 +44,6 @@ Open the Folder where you cloned/downloaded this repository in a terminal.
 Then inside the command line, type "```jupyter notebook```" , if you have installed the requirements correctly, the terminal should open up a web page on your local machine with the directory in view. Click on **Tasks.ipynb** to open up the notebook in the browser and then use the Run button to run any of the python code or markdown cells that are not already running.
 
 ***
-Created by James Porter G00327095<br><br>
+*Created by James Porter G00327095<br><br>
  BSc (Hons) in Computing (Software Development)
-<br>Galway Mayo Institute of Technology
+<br>Galway Mayo Institute of Technology*
