@@ -1,6 +1,6 @@
 # Emerging-Technologies-Tasks
 
-This Repository contains tasks I was requested to complete in Python using Jupyter Notebook , Matplotlib , NumPy, Scikit-Learn , Pandas , Scipy.
+This Repository contains tasks I was requested to complete in Python using **Jupyter Notebook , Matplotlib , NumPy, Scikit-Learn , Pandas , Scipy.**
 Many of these tasks are statistical or mathamatical based tasks.
 
 **List of Tasks**
