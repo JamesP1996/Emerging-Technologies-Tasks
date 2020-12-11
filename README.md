@@ -10,12 +10,12 @@ Many of these tasks are statistical or mathamatical based tasks.
 4. Scikit-Learn to  apply k-means  clustering  to **Fisher’s  famous  Iris  data  set**
 
 
-# How to Run From Github
+## How to Run From Github
 To run the Jupyter Notebook on Github, open the **Tasks.ipynb** file and all of the code cells should automatically run on the webpage displayed.
 
-# How to Run the Notebook from Local Machine
+## How to Run the Notebook from Local Machine
 
-## Requirements
+### Requirements
 - **Python With PIP /  Anaconda**
 - **Jupyter Notebook (Install through Pip Package Manager/ Anaconda Package Manager)**
 
@@ -39,7 +39,7 @@ To run the Jupyter Notebook on Github, open the **Tasks.ipynb** file and all of 
 - **Scipy**<br>
 ```pip install scipy```
 
-## Running the Notebook 
+### Running the Notebook 
 Open the Folder where you cloned/downloaded this repository in a terminal.
 Then inside the command line, type "```jupyter notebook```" , if you have installed the requirements correctly, the terminal should open up a web page on your local machine with the directory in view. Click on **Tasks.ipynb** to open up the notebook in the browser and then use the Run button to run any of the python code or markdown cells that are not already running.
 
